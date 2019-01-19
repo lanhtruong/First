@@ -13,10 +13,10 @@ p {
   font-size: 100px;
 }
 
-#banner {
+.banner {
   font-size: 50px;
 }
 
-.nlp {
+#nlp {
   border-style: 1px black dashed;
 }
